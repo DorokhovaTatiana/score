@@ -1,0 +1,8 @@
+C:\Users\Татьяна\Documents\SharpDevelop Projects\Score\Score\obj\Debug\Score.csprojResolveAssemblyReference.cache
+C:\Users\Татьяна\Documents\SharpDevelop Projects\Score\Score\bin\Debug\Score.exe.config
+C:\Users\Татьяна\Documents\SharpDevelop Projects\Score\Score\bin\Debug\Score.exe
+C:\Users\Татьяна\Documents\SharpDevelop Projects\Score\Score\bin\Debug\Score.pdb
+C:\Users\Татьяна\Documents\SharpDevelop Projects\Score\Score\obj\Debug\Score.exe
+C:\Users\Татьяна\Documents\SharpDevelop Projects\Score\Score\obj\Debug\Score.pdb
+C:\Users\Татьяна\Documents\SharpDevelop Projects\Score\Score\obj\Debug\Score.MainForm.resources
+C:\Users\Татьяна\Documents\SharpDevelop Projects\Score\Score\obj\Debug\Score.csproj.GenerateResource.Cache
